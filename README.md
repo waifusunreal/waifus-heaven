@@ -1,3 +1,5 @@
+<img src="banner.jpg" alt="drawing" widht="500"/>
+
 ## This is one of the most precious directory of all the **ManKind**
 
 This directory is a massive dataset of **2D Anime Girls** aka **Waifus**. It has following subdirectories:
